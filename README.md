@@ -2,7 +2,7 @@
 
 # CÁCH SETUP 
 
-git clone https://github.com/BacNTb/HASOKI
+git clone https://github.com/sangcoder0707/ddos-hasokiv1
 
 + cd HASOKI
 
